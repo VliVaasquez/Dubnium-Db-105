@@ -1,0 +1,20 @@
+body{
+    background-color: yellowgreen;
+}
+.heading{
+font: size 22px;
+ width:100%;
+} 
+#camera, #result  {
+border: 2px solid white;
+width: 400px;
+height: 300px;
+padding-left: 2px;
+}
+.name_of_objects {
+background-color:violet;
+width:100%;
+}
+#result_object_name,#result_object_accuracy {
+color:blue;
+}
